@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-$password='909011';
+$password='ZxC7580';
 
 
 $xyn='tunafeesh';
